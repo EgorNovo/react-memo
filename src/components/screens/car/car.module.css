@@ -1,0 +1,11 @@
+.button {
+  display: block;
+  margin: 10px;
+  width: 120px;
+  background-color: azure;
+  color: black;
+  border: none;
+  border-radius: 5px;
+  text-decoration: none;
+  text-align: center;
+}

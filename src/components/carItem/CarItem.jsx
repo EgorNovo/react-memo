@@ -1,7 +1,8 @@
-import React from 'react'
+import { Link } from 'react-router-dom'
 import styles from './carsItem.module.css'
 
-export const CarItem = ({car}) => {
+export const CarItem = (props) => {
+  const car = props?.car
 
   return (
     <div className={styles.item}>
@@ -18,7 +19,7 @@ export const CarItem = ({car}) => {
             currency: 'USD'
             })
             .format(car.price)}</p>
-        <button>Read more</button>
+        <Link className={styles.button} to={`/car/${car.id}`}> Read more</Link>
       </div>
     </div>
   )

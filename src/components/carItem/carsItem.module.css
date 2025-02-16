@@ -1,5 +1,7 @@
 .item {
   border: 1px solid gray;
+  width: 45%;
+  height: 300px;
 }
 
 .image {
@@ -21,4 +23,16 @@
 
 .info p {
   margin-bottom: 0;
+}
+
+.button {
+  display: block;
+  margin: 10px;
+  width: 120px;
+  background-color: azure;
+  color: black;
+  border: none;
+  border-radius: 5px;
+  text-decoration: none;
+  text-align: center;
 }
