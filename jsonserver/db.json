@@ -1,0 +1,44 @@
+{"cars" :[
+  {
+    "id":1,
+    "name": "Toyota Prius",
+    "price": 15000,
+    "image": "https://image.volkskrant.nl/238214582/width/2480/toyota-prius-plug-in-hybrid-executive"
+  },
+  {
+    "id":2,
+    "name": "Ford Focus",
+    "price": 12000,
+    "image": "https://weudealerimagesprd.blob.core.windows.net/nl12/product/gallery/Ford-Focus-ST-Line-Exterieur-2-min.jpg"
+  },
+  {
+    "id":3,
+    "name": "Tesla Model 3",
+    "price": 35000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0o14yJE0tslIRb4k4IUyLULCaf9dL2_Wn0Q&s"
+  },
+  {
+    "id":4,
+    "name": "Ford Mustang",
+    "price": 27500,
+    "image": "https://media.ed.edmunds-media.com/ford/mustang/2025/oem/2025_ford_mustang_coupe_dark-horse_fq_oem_1_600.jpg"
+    },
+  {
+    "id":5,
+    "name": "BMW M5 ",
+    "price": 145000,
+    "image": "https://media.autoexpress.co.uk/image/private/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1729773746/evo/2024/10/G90%20BMW%20M5%20saloon-13.jpg"
+},
+  {
+    "id":6,
+    "name": "Tesla CyberTrack",
+    "price": 135000,
+    "image": "https://v.wpimg.pl/ZWIxMTY4dTYoGjtndk94I2tCbz0wFnZ1PFp3dnYFaG95AGIyMFg_JSwIIno-Ri8nKA89eilYdTY5EWIiaBs-PjoIITUgGz86Kx0pe2EFY2UvGX1kdAxvZCtVeTI8BXc1ehoueWkBaDIrSXxiYQZrb2sF"
+  },
+  {
+    "id":7,
+    "name": "Ferrari F40",
+    "price": 235000,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/F40_Ferrari_20090509.jpg/640px-F40_Ferrari_20090509.jpg"
+  }
+]}
